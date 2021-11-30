@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241847247964",
+    "project_id": "bachelorrooms-a2b88",
+    "storage_bucket": "bachelorrooms-a2b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241847247964:android:18909f84fb099a66573299",
+        "android_client_info": {
+          "package_name": "com.bachelorrooms.bachelor_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241847247964-9jdt3ji1amcel1kcr01091sqtctkr81g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bachelorrooms.bachelor_room",
+            "certificate_hash": "7b9eb18c5da5faeb1a567f9abbe01f7356127491"
+          }
+        },
+        {
+          "client_id": "241847247964-vnth22ddgs8ghbphe1gverj0fmekkn33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWOZMijeWjbqDApZfmYiwwzjZ0ko8frPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241847247964-vnth22ddgs8ghbphe1gverj0fmekkn33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
